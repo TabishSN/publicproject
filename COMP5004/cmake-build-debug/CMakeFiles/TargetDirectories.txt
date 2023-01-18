@@ -1,0 +1,3 @@
+C:/Users/Tabish/Desktop/COMP5004/cmake-build-debug/CMakeFiles/textadv.dir
+C:/Users/Tabish/Desktop/COMP5004/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tabish/Desktop/COMP5004/cmake-build-debug/CMakeFiles/rebuild_cache.dir
